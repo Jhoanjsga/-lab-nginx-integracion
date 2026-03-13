@@ -24,7 +24,9 @@ Nginx cuando:
 -Servirás mucho contenido estático (imágenes, videos, archivos).
 -Necesitas un proxy inverso o balanceador de carga para distribuir tráfico entre varios servidores.
 -Quieres bajo consumo de recursos y máxima velocidad.
-![configuracion de puerto](imagenes/CONFIGURACION_PUERTO.jpeg)
+
+Instalación y configuración de Nginx
+![configuracion de puerto](imagenes/CONFIGURACION_PUERTO.JPEG)
 ![Prueba de navegador funcionando](imagenes/PRUEBA_NAVEGADOR.jpeg)
 ![Actualizacion de versiones](imagenes/ACTUALIZACION.jpeg)
 ![Cambio de ruta de ejecucion de nginx](imagenes/CAMBIO_RUTA.jpeg)
